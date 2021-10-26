@@ -1,0 +1,2 @@
+sudo apt-get install g++-multilib g++-aarch64-linux-gnu g++-arm-linux-gnueabihf
+sudo ln -s /usr/include/asm-generic /usr/include/asm

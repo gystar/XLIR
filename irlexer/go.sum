@@ -1,0 +1,4 @@
+github.com/ianlancetaylor/demangle v0.0.0-20200811041817-f3adf8b39d88 h1:zxHnhJNob1FZFXNNbBn2QKbjypLHwY13XkAP/P/3G+s=
+github.com/ianlancetaylor/demangle v0.0.0-20200811041817-f3adf8b39d88/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
+github.com/llir/ll v0.0.0-20200425014433-60cd8feecf92 h1:46SWNHwNB1dvOK+9gO3TENanWN9ICNCXvt4uYAQh8aw=
+github.com/llir/ll v0.0.0-20200425014433-60cd8feecf92/go.mod h1:8W5HJz80PitAyPZUpOcljQxTu6LD5YKW1URTo+OjVoc=
